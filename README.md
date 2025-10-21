@@ -1,2 +1,2 @@
 # Camera
-Text-based camera game for simulaa ted zookeeper
+Text-based camera game for a simulated zookeeper
